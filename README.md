@@ -40,5 +40,8 @@ if (!$exec->ok()) {
 return $exec->getOutput();
 ```
 
-License: [New BSD License](LICENSE)
+---
+
+License: [MIT License](LICENSE)
+
 Author: Trần Quang Khương
