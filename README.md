@@ -1,7 +1,7 @@
 # CMD Runner
 
-[![Latest Stable Version](https://poser.pugx.org/kyziss/cmd-runner/v/stable)](https://github.com/kyziss/cmd-runner/releases)
-[![License](https://poser.pugx.org/kyziss/cmd-runner/license)](https://github.com/kyziss/cmd-runner/blob/main/LICENSE)
+[![Latest Stable Version](https://img.shields.io/badge/stable-v1.0.0-yellow.svg)](https://github.com/kyziss/cmd-runner/releases)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/kyziss/cmd-runner/blob/main/LICENSE)
 
 The library works with PHP, Laravel.
 ## Installation
