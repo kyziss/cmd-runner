@@ -1,0 +1,15 @@
+{
+    "name": "kyziss/cmd-runner",
+    "autoload": {
+        "psr-4": {
+            "Kyziss\\CmdRunner\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kyziss",
+            "email": "khuongtran.it@gmail.com"
+        }
+    ],
+    "require": {}
+}
