@@ -9,6 +9,9 @@ namespace Kyziss\CmdRunner;
  */
 class CMD
 {
+	/**
+	 * @var string command
+	 */
 	private $command;
 	private $directory;
 	private $env;
