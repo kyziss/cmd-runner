@@ -1,5 +1,10 @@
 {
     "name": "kyziss/cmd-runner",
+    "type": "library",
+    "description": "CMD Runner PHP, Laravel",
+    "keywords": ["cmd", "command"],
+    "homepage": "https://github.com/kyziss/cmd-runner",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Kyziss\\CmdRunner\\": "src/"
@@ -7,9 +12,13 @@
     },
     "authors": [
         {
-            "name": "kyziss",
+            "name": "Trần Quang Khương",
             "email": "khuongtran.it@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^7.4 || ^8.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
